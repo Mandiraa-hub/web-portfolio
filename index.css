@@ -1,0 +1,53 @@
+body{
+	background-color: black;
+/*	color: white;*/
+}
+#navbar {
+	background-color:black;
+	color: white;
+		border: 1px solid white;
+		box-shadow:0px 0px 15px 0px #FFFFFF;
+}
+.nav-link{
+	color: white;
+	text-align: center;
+
+}
+
+#social
+{
+	height: 25px;
+	margin: 20px;
+}
+#landing{
+	background-color: black;
+	color: white;
+	border: 3px solid white;
+	box-shadow:0px 0px 20px 4px #f6d298;
+
+
+}
+#project{
+		background-color: black;
+	border: 3px solid white;
+	box-shadow:0px 0px 40px 0px #FFFFFF;
+	margin: 100px;
+}
+.card-body
+{
+		background-color: black;
+	border: 1px solid white;
+}
+form
+{
+background-color: black;
+color: white;
+padding: 6px;
+	border: 2px solid white;
+
+}
+#contact,#tools{
+	border: 2px solid white;
+	box-shadow:0px 0px 20px 0px #FFFFFF;
+	margin: 100px;
+}
